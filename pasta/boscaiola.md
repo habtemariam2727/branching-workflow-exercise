@@ -17,4 +17,5 @@
 TODO: these are missing
 - first boil water
 - add pthe pasta and wait for some time 
-- put it on a bowl 
+- put it on a large bowl 
+
