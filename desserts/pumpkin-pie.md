@@ -3,11 +3,13 @@
 
 ## Preparation
 
-- Remove seeds
-- Bake pumpkin/squash
-- Take out the inside of the pumpkin
+- Preheat oven to 180 degrees Celsius 
+- Remove seeds of one pumpkin/squash
+- Slice pumpkin/squash
+- Add slices to baking tray with 200 ml water. Slices should be placed with the skin at the bottom  
+- Cook for 2-2.5h (until pureed)
+- Scoop out the flesh of the pumpkin
 - Use 2 cups of pumpkin pulp per pie
-
 
 ## Ingredients
 
